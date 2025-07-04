@@ -1,4 +1,4 @@
-# 🩺 End-to-End Medical Chatbot using Llama2 🩺
+# 🩺 MediNeuron: End-to-End Medical Chatbot using Llama 2
 
 ## 📖 Project Overview
 
